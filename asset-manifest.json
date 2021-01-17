@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Pagination-React/static/css/main.4fad4cf3.chunk.css",
+    "main.js": "/Pagination-React/static/js/main.8d80c9ce.chunk.js",
+    "main.js.map": "/Pagination-React/static/js/main.8d80c9ce.chunk.js.map",
+    "runtime-main.js": "/Pagination-React/static/js/runtime-main.ba36b3a1.js",
+    "runtime-main.js.map": "/Pagination-React/static/js/runtime-main.ba36b3a1.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/Pagination-React/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.d52ab1c1.chunk.js": "/Pagination-React/static/js/2.d52ab1c1.chunk.js",
+    "static/js/2.d52ab1c1.chunk.js.map": "/Pagination-React/static/js/2.d52ab1c1.chunk.js.map",
+    "static/js/3.f583ac27.chunk.js": "/Pagination-React/static/js/3.f583ac27.chunk.js",
+    "static/js/3.f583ac27.chunk.js.map": "/Pagination-React/static/js/3.f583ac27.chunk.js.map",
+    "index.html": "/Pagination-React/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/Pagination-React/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.4fad4cf3.chunk.css.map": "/Pagination-React/static/css/main.4fad4cf3.chunk.css.map",
+    "static/js/2.d52ab1c1.chunk.js.LICENSE.txt": "/Pagination-React/static/js/2.d52ab1c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba36b3a1.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.d52ab1c1.chunk.js",
+    "static/css/main.4fad4cf3.chunk.css",
+    "static/js/main.8d80c9ce.chunk.js"
+  ]
+}
